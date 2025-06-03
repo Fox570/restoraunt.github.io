@@ -1,2 +1,2 @@
-# restoraunt.github.io
+# restaurant.github.io
 simple site for restoraunt
